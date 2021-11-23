@@ -2641,6 +2641,16 @@
         "gen": 3,
         "desc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use."
     },
+    "pheromosite": {
+        "id": "pheromosite",
+        "name": "Pheromosite",
+        "spritenum": 795,
+        "megaStone": "Pheromosa-Mega",
+        "megaEvolves": "Pheromosa",
+        "num": 9999,
+        "gen": 7,
+        "desc": "If held by a Pheromosa, this item allows it to Mega Evolve in battle."
+    },
     "pidgeotite": {
         "id": "pidgeotite",
         "name": "Pidgeotite",
